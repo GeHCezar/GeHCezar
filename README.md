@@ -1,0 +1,7 @@
+- 👋 Oi, Meu nome e Geraldo
+- Amo muito Montagem e Manutenção de Computadores e agora estou querendo aprender mais sobre Programação
+- 💻 Estou aprendendo um pouco de tudo que e possivel, HTML, CSS, JAVASCRIPT
+- Tenho alguns projetos feitos para ter algumas experiencia e aprender um pouco mais, sendo em HTML, CSS e até mesmo JAVASCRIPT.
+- os projetos prontos você pode ver aqui: https://linktr.ee/mrgeh
+- Para Entrar em contato comigo📞
+-  DISCORD: GeH#3556
