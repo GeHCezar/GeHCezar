@@ -1,4 +1,4 @@
-- 👋 Oi, Meu nome e Geraldo
+- 👋 Oi, Meu nome e Geraldo e tenho 21 anos.
 - Amo muito Montagem e Manutenção de Computadores e agora estou querendo aprender mais sobre Programação
 - 💻 Estou aprendendo um pouco de tudo que e possivel, HTML, CSS, JAVASCRIPT
 - Tenho alguns projetos feitos para ter algumas experiencia e aprender um pouco mais, sendo em HTML, CSS e até mesmo JAVASCRIPT.
