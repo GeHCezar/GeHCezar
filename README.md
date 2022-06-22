@@ -4,5 +4,5 @@
 - Tenho alguns projetos feitos para ter algumas experiencia e aprender um pouco mais, sendo em HTML, CSS e até mesmo JAVASCRIPT.
 - os projetos prontos você pode ver aqui: https://linktr.ee/mrgeh
 - Para Entrar em contato comigo📞
-- Linkedin: [https://www.linkedin.com/in/geraldo-cezar-rodrigues-dos-santos-1726a717a](https://bit.ly/LinkedinGeraldo)
+- Linkedin: https://bit.ly/LinkedinGeraldo
 -  DISCORD: GeH#3556
