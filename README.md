@@ -4,5 +4,5 @@
 - Tenho alguns projetos feitos para ter algumas experiencia e aprender um pouco mais, sendo em HTML, CSS e até mesmo JAVASCRIPT.
 - os projetos prontos você pode ver aqui: https://linktr.ee/mrgeh
 - Para Entrar em contato comigo📞
-- Linkedin: https://bit.ly/LinkedinGeraldo
--  DISCORD: GeH#3556
+- 𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻: https://bit.ly/LinkedinGeraldo
+- 𝗗𝗜𝗦𝗖𝗢𝗥𝗗: GeH#3556
